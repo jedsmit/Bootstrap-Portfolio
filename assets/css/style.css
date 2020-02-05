@@ -22,3 +22,18 @@
     }
 }
 
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link:hover, .fab:hover, a:hover {
+    text-shadow: 0 0 20px 
+    #edefde;
+}
+
